@@ -2,8 +2,8 @@
 
 Bailanysta is a small social network: users register, publish short text posts, browse a chronological feed of everyone's posts, like and comment on posts, and manage their own posts from a profile page. Light/dark theme choice is remembered per browser.
 
-- **Live app:** _add your deployed frontend URL here after deploying_
-- **Live API:** _add your deployed backend URL here after deploying_
+- **Live app:** [bailanysta-bdms1.vercel.app](https://bailanysta-bdms1.vercel.app/)
+- **Live API:** [bailanysta-7du5.onrender.com](https://bailanysta-7du5.onrender.com/)
 
 ## Tech stack
 
